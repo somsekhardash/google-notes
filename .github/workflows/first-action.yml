@@ -9,6 +9,3 @@ jobs:
     steps:
       - name: Prints Welcome Message
         run: echo "Hello from Me"
-      
-      
-        
